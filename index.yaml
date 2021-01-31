@@ -1,3 +1,13 @@
 apiVersion: v1
-entries: {}
+entries:
+  helmhook:
+  - apiVersion: v2
+    appVersion: "1.0"
+    created: "2021-01-31T04:06:23.037601522Z"
+    description: A Helm chart for Kubernetes
+    digest: 60d37f3f5ab02ed209a005251b4069c19939415c27a4fbbc811cf5a1a89dc83d
+    name: helmhook
+    urls:
+    - https://github.com/totallyGreg/harness-io/releases/download/helmhook-0.1.9/helmhook-0.1.9.tgz
+    version: 0.1.9
 generated: "2021-01-30T23:00:06.718157-05:00"
